@@ -61,3 +61,7 @@ python test.py
 Model
 ===
 We got the best MAE and MSE at the 596 epoch for the experiment under mild illumination intensity. You can download this epoch's model from [Link](https://drive.google.com/file/d/1CL3o5K125Lb-hPG31qvKMAllDN4qOINf/view?usp=sharing).
+
+Acknowledgement
+===
+The structure of this codebase is mainly borrowed from a pytorch implemention of [CAN](https://github.com/CommissarMa/Context-Aware_Crowd_Counting-pytorch) and [SCAR](https://github.com/gjy3035/SCAR).
