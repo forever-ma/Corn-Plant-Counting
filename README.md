@@ -53,7 +53,7 @@ Testing
 ===
 1. Modify the root path in "test.py" according to your dataset position. <br>
 
-2. Using the following command for calculating MAE and MSE of test images or just show an estimated density-map:
+2. Using the following command for calculating MAE and MSE of test images or just show an estimated density map:
 ```
 python test.py
 ```
