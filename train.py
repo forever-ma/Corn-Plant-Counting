@@ -60,6 +60,7 @@ if __name__=="__main__":
             gt_dmap=gt_dmap.to(device)
             et_dmap = model(img)
             loss1=criterion1(et_dmap,gt_dmap)
+            #loss2=criterion1(et_dmap.data.sum(), gt_dmap.data.sum())
             loss2=criterion2(et_dmap.data.sum(), gt_dmap.data.sum())
             loss=0.9*loss1+0.1*loss2
             epoch_loss+=loss.item()
