@@ -63,3 +63,10 @@ Model
 We got the best MAE and MSE at the 596 epoch for the experiment under mild illumination intensity. You can download this epoch's model from [Link](https://drive.google.com/file/d/1CL3o5K125Lb-hPG31qvKMAllDN4qOINf/view?usp=sharing).
 
 
+Citing
+===
+If you use the code, please cite the following paper:
+'''
+Yong-Yang Ma, Zhan-Li Sun, Zhigang Zeng, and Kin-Man Lam, “Corn-Plant Counting Using Scare-Aware Feature and Channel Interdependence” IEEE Geoscience and Remote Sensing Letters, DOI:10.1109/LGRS.2021.3049489, 2021.
+'''
+
