@@ -66,7 +66,7 @@ We got the best MAE and MSE at the 596 epoch for the experiment under mild illum
 Citing
 ===
 If you use the code, please cite the following paper:
-'''
+```
 Yong-Yang Ma, Zhan-Li Sun, Zhigang Zeng, and Kin-Man Lam, “Corn-Plant Counting Using Scare-Aware Feature and Channel Interdependence” IEEE Geoscience and Remote Sensing Letters, DOI:10.1109/LGRS.2021.3049489, 2021.
-'''
+```
 
